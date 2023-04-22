@@ -7,3 +7,14 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+*{
+    font-family: Poppins;
+}
+.home{
+    margin: 0 50px;
+}
+
+.header{
+    margin-bottom: 100px;
+}
