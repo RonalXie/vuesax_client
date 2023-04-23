@@ -18,3 +18,23 @@
 .header{
     margin-bottom: 100px;
 }
+
+hr {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EEF2F5;
+    margin:10px 0;
+}
+
+.line_center{
+    display: flex;
+    justify-content: center;
+}
+
+.card_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}

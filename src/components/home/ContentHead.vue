@@ -1,15 +1,31 @@
 <template>
-  <div>
-    <img height="400" width="100%" src="https://cdn.dribbble.com/userupload/6450921/file/original-4c211631d2bd9e0b75b267658f9273df.png?compress=1&resize=752x" alt="">
-  </div>
+
+    <div>
+        <vs-row align="center" justify="center">
+<!--            <vs-col lg="8" xs="12">-->
+<!--                <CoverContent/>-->
+<!--            </vs-col>-->
+            <vs-col vs-type="flex" vs-justify="center" vs-align="center" w="4" xs="12">
+              <UserCard/>
+            </vs-col>
+        </vs-row>
+    </div>
+
+
 </template>
 
 <script>
+import UserCard from "@/components/home/UserContent.vue";
+// import CoverContent from "@/components/home/CoverContent.vue";
+
 export default {
-  name: "ContentHead"
+    name: "ContentHead",
+    components: { UserCard}
 }
 </script>
 
-<style scoped>
+<style>
+
+
 
 </style>
