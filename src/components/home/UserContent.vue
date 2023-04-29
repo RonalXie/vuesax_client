@@ -3,7 +3,7 @@
       <div class="" style="text-align: center">
           <div class="line_center">
               <vs-avatar circle size="176">
-                      <img src="https://vuesax.com/foto1.png" alt="">
+                      <img src="http://120.48.18.117:9000/blog/7dd7a0d2cdd720a70b42232bcb7eba84.jpg" alt="">
               </vs-avatar>
           </div>
           <div>
@@ -11,7 +11,7 @@
           </div>
           <div>
               <p>
-                  Lorem ipsum dolor sit amet consectetur,  elit.elit
+                  life is fantastic
               </p>
           </div>
           <div class="line_center">

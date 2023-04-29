@@ -8,7 +8,7 @@
         <hr/>
         <div>
             <vs-row>
-                <vs-col :key="index" v-for="index in 10" vs-type="flex" vs-justify="center" vs-align="center" lg="3"
+                <vs-col :key="index" v-for="index in 10" vs-type="flex" vs-justify="center" vs-align="center" lg="4"
                         sm="6" xs="12">
                     <ArticleCard/>
                 </vs-col>
